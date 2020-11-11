@@ -1,0 +1,5 @@
+classes= 3
+train =  /content/cfg_test/train.txt
+valid =  /content/cfg_test/test.txt
+names =  /content/cfg_test/obj.names
+backup =  /content/cfg_test/weights/
